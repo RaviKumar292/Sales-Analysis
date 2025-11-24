@@ -74,6 +74,5 @@ ask_rag("Summarize the major expenses in the report", "expense")
 ############## Limitations #################
 
 No UI
-To run LLM features, set: GOOGLE_API_KEY=your_key_here
 DuckDB concurrency restricted inside notebooks
 The project uses free-tier Google Gemini, which restricts model size and reasoning depth.
